@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saaim Shaikh</h1>
-<h3 align="center">About me: I am a data analyst who is passionate about finding insights from data and solving real-world problems. I have a bachelor’s degree and I am proficient in Python, SQL, Tableu,Power-bi.
-Projects: I have worked on some projects. You can find the code and the results on my GitHub repositories.
-Skills: I have experience in using various data analysis tools and techniques, such as pandas, scikit-learn, matplotlib, seaborn, machine learning, data visualization, and data cleaning. 
-Goals: I am a fresher who is eager to learn from others and improve my skills. I am looking for opportunities to collaborate with other data enthusiasts and work on challenging and meaningful projects.</h3>
+<h3 &bull; align="center">About me: I am a data analyst who is passionate about finding insights from data and solving real-world problems. I have a bachelor’s degree and I am proficient in Python, SQL, Tableu,Power-bi. <br>
+ &bull; Projects: I have worked on some projects. You can find the code and the results on my GitHub repositories. <br>
+&bull; Skills: I have experience in using various data analysis tools and techniques, such as pandas, scikit-learn, matplotlib, seaborn, machine learning, data visualization, and data cleaning. <br>
+&bull; Goals: I am a fresher who is eager to learn from others and improve my skills. I am looking for opportunities to collaborate with other data enthusiasts and work on challenging and meaningful projects. </h3>
 <img align="right" alt='Data' width='400' src="https://images.squarespace-cdn.com/content/v1/55ed989ee4b0c7f115ddc924/1541600620919-VEI2IOYGNT2WJXA2W4A0/analytics.gif">
 
 - 📫 How to reach me **saaimshoshaikh@gmail.com**
