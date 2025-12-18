@@ -1,22 +1,121 @@
-<h1 align="center">Hi 👋, I'm Saaim Shaikh</h1>
-<h3 &bull; align="center">About me: I am a data analyst who is passionate about finding insights from data and solving real-world problems. I have a bachelor’s degree and I am proficient in Python, SQL, Tableu,Power-bi. <br>
- &bull; Projects: I have worked on some projects. You can find the code and the results on my GitHub repositories. <br>
-&bull; Skills: I have experience in using various data analysis tools and techniques, such as pandas, scikit-learn, matplotlib, seaborn, machine learning, data visualization, and data cleaning. <br>
-&bull; Goals: I am a fresher who is eager to learn from others and improve my skills. I am looking for opportunities to collaborate with other data enthusiasts and work on challenging and meaningful projects. </h3>
-<img align="right" alt='Data' width='400' src="https://images.squarespace-cdn.com/content/v1/55ed989ee4b0c7f115ddc924/1541600620919-VEI2IOYGNT2WJXA2W4A0/analytics.gif">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:002046,100:004080&height=200&section=header&text=Saaim%20Shaikh&fontSize=70&animation=fadeIn&fontColor=ffffff" width="100%" />
+  
+  ### **Quantitative Developer | Finance Transformation Analyst**
+  
+  *Bridging the gap between rigorous financial accuracy and institutional-grade machine learning*
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saaim-shaikh-151032230)
+  [![Email](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saaimshoshaikh@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-FF6B6B?style=for-the-badge&logo=gamma&logoColor=white)](YOUR_GAMMA_PORTFOLIO_URL)
+  
+</div>
 
-- 📫 How to reach me **saaimshoshaikh@gmail.com**
+---
 
-- ⚡ Fun fact **Did you know that octopuses have three hearts? Two pump blood to the gills, while the third pumps it to the rest of the body!**
+## 🚀 Professional Profile
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/_saaimshaikh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_saaimshaikh_" height="30" width="40" /></a>
-</p>
+- 💼 **Current Role:** Associate Accountant at **Datamatics Business Solutions** | Finance Transformation Specialist
+- 📈 **Focus:** Automating Canadian Tax (T1/T2) workflows using CaseWare, CCH iFirm, and Python
+- 🛠️ **Featured Project:** [**QuantAI-OS**](https://github.com/saaim23/QuantAI-OS) - Production-grade CLI for market analysis with ML pipelines (HMM, Kelly Criterion)
+- 🎓 **Education:** B.Com Graduate | Currently pursuing **US CMA** certification
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saaim23&show_icons=true&locale=en&layout=compact" alt="saaim23" /></p>
+## 💼 Portfolio Preview
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saaim23&" alt="saaim23" /></p>
+<div align="center">
+  <a href="YOUR_GAMMA_PORTFOLIO_URL" target="_blank">
+    <img src="https://img.shields.io/badge/🎯_VIEW_FULL_PORTFOLIO-Click_Here-FF6B6B?style=for-the-badge&labelColor=002046" alt="View Portfolio" />
+  </a>
+  
+  <br><br>
+  
+  <!-- Replace YOUR_PORTFOLIO_SCREENSHOT_URL with your actual Gamma portfolio screenshot URL -->
+  <a href="https://saaim-shaikh-portfolio-7yk90u0.gamma.site/" target="_blank">
+    <img src="https://github.com/saaim23/PDFBookmarkHelper/issues/1#issue-3742516695" alt="Portfolio Preview" width="80%" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
+  </a>
+  
+  <p><i>Interactive portfolio showcasing quantitative finance projects, ML implementations, and financial automation workflows</i></p>
+</div>
+
+---
+
+## 🛠️ Technical Stack
+
+<table>
+<tr>
+<td width="50%">
+
+### Programming & Databases
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Data Science & ML
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+</td>
+<td width="50%">
+
+### Finance & Analytics
+![Alteryx](https://img.shields.io/badge/Alteryx-0078C0?style=for-the-badge&logo=alteryx&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### Accounting Software
+![CaseWare](https://img.shields.io/badge/CaseWare-002046?style=for-the-badge)
+![CCH iFirm](https://img.shields.io/badge/CCH_iFirm-FF6600?style=for-the-badge)
+![TaxPrep](https://img.shields.io/badge/TaxPrep-1E3A8A?style=for-the-badge)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saaim23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaim23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saaim23&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 💡 Key Competencies
+
+```python
+skills = {
+    "Financial_Analysis": ["Tax Automation", "Financial Reporting", "Process Optimization"],
+    "Machine_Learning": ["Time Series Analysis", "Hidden Markov Models", "Predictive Analytics"],
+    "Data_Engineering": ["ETL Pipelines", "Data Validation", "Workflow Automation"],
+    "Tools": ["Python", "SQL", "Power BI", "Alteryx", "CaseWare"]
+}
+```
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saaim_Shaikh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saaim-shaikh-151032230)
+  [![Gmail](https://img.shields.io/badge/Gmail-saaimshoshaikh-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saaimshoshaikh@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-saaim23-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saaim23)
+  
+  **Open to collaborations in FinTech, QuantDev, and ML-driven financial automation**
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:002046,100:004080&height=100&section=footer" width="100%" />
+</div>
