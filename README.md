@@ -25,7 +25,7 @@
 ## 💼 Portfolio Preview
 
 <div align="center">
-  <a href="YOUR_GAMMA_PORTFOLIO_URL" target="_blank">
+  <a href="https://saaim-shaikh-portfolio-7yk90u0.gamma.site/" target="_blank">
     <img src="https://img.shields.io/badge/🎯_VIEW_FULL_PORTFOLIO-Click_Here-FF6B6B?style=for-the-badge&labelColor=002046" alt="View Portfolio" />
   </a>
   
