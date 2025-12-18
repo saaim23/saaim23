@@ -7,7 +7,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saaim-shaikh-151032230)
   [![Email](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saaimshoshaikh@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-FF6B6B?style=for-the-badge&logo=gamma&logoColor=white)](YOUR_GAMMA_PORTFOLIO_URL)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-FF6B6B?style=for-the-badge&logo=gamma&logoColor=white)](https://saaim-shaikh-portfolio-7yk90u0.gamma.site/)
   
 </div>
 
@@ -22,19 +22,20 @@
 
 ---
 
-## 💼 Portfolio Preview
+## 💼 Portfolio
 
 <div align="center">
   <a href="https://saaim-shaikh-portfolio-7yk90u0.gamma.site/" target="_blank">
-    <img src="https://img.shields.io/badge/🎯_VIEW_FULL_PORTFOLIO-Click_Here-FF6B6B?style=for-the-badge&labelColor=002046" alt="View Portfolio" />
+    <img src="https://github.com/user-attachments/assets/5f8a39b2-cf22-409d-aac5-42523f53e575" alt="Portfolio Logo" width="200" style="border-radius: 20px;" />
   </a>
   
   <br><br>
   
-  <!-- Replace YOUR_PORTFOLIO_SCREENSHOT_URL with your actual Gamma portfolio screenshot URL -->
   <a href="https://saaim-shaikh-portfolio-7yk90u0.gamma.site/" target="_blank">
-    <img src="https://github.com/saaim23/PDFBookmarkHelper/issues/1#issue-3742516695" alt="Portfolio Preview" width="80%" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
+    <img src="https://img.shields.io/badge/🎯_EXPLORE_MY_PORTFOLIO-Click_Here-FF6B6B?style=for-the-badge&labelColor=002046&fontSize=16" alt="View Portfolio" />
   </a>
+  
+  <br>
   
   <p><i>Interactive portfolio showcasing quantitative finance projects, ML implementations, and financial automation workflows</i></p>
 </div>
